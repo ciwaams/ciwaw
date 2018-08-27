@@ -100,7 +100,7 @@
                                     <?php
                     $nomor=0;
                     include("koneksi.php");                    
-                    $sql = $mysqli->query("SELECT * FROM ph group by id_ph ORDER BY id_ph")
+                    $sql = $mysqli->query("SELECT * FROM ph group by id_ph ORDER BY id_ph");
 					while($data = mysqli_fetch_assoc($sql)){
                     
                     $nomor++;

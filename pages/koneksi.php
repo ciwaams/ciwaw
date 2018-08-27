@@ -7,5 +7,5 @@ $db="heroku_38e9fe5c86d6f7b";
 $config=mysql_connect($host,$user,$pass);
 $connect=mysql_select_db($db,$config) or die(mysql_error());
 */
-$mysqli=mysqli_connect($host,$user,$pass,$db");
+$mysqli=mysqli_connect($host,$user,$pass,$db);
 ?>
