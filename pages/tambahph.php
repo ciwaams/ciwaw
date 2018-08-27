@@ -80,8 +80,7 @@
                         <div class="panel-body">
                             <div class="row">
                                 <div class="col-lg-6">
-                                    <form role="form">
-                                         <div class="form-group">
+                                          <div class="form-group">
                                             <label>Nama Barang</label>
                                             <input class="form-control" required="required" name="namabarang">
                                             <!--<p class="help-block">Example block-level help text here.</p>-->
