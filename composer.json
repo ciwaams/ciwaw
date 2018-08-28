@@ -1,5 +1,9 @@
 {
-  "require": {
-    "ext-mysqli": "*"
-  }
+    "name": "bm/ams-ciwaw",
+    "authors": [
+        {
+            "name": "bm"
+        }
+    ],
+    "require": {}
 }
